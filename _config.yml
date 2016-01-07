@@ -1,7 +1,9 @@
 # Dependencies
-markdown:         redcarpet
+markdown: kramdown
+kramdown:
+  input: GFM
 
-highlighter:      pygments
+highlighter: pygments
 
 title: The Site of Jonas
 description: My personal GitHub page, where I present (to me) interesting stuff. Maybe you'll like it too!
