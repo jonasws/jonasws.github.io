@@ -1,4 +1,8 @@
 # Dependencies
+gems:
+  - jemoji
+
+
 markdown: kramdown
 kramdown:
   input: GFM
@@ -6,7 +10,7 @@ kramdown:
 highlighter: pygments
 
 title: The Site of Jonas
-description: My personal GitHub page, where I present (to me) interesting stuff. Maybe you'll like it too!
+description: My personal GitHub page, where I present (to me) interesting stuff. Maybe you'll like it too!<br/><br/> Powered by [Jekyll](http://jekyllrb.com/) and [Hyde](http://hyde.getpoole.com/).
 tagline: Source of sorcery
 baseurl: "/"
 
