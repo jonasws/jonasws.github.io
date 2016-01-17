@@ -3,9 +3,7 @@ gems:
   - jemoji
 
 
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet
 
 highlighter: pygments
 
