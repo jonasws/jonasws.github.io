@@ -7,7 +7,7 @@ date: "2016-02-18 21:40"
 It feels like ages since my last post. I apologize for this. I have been pondering what to write about next, and I've decided to write another post on how I try to utilize small, useful perks that add up to increased productivity. One of these things is how I like to use `vim`-like keybindings whenever available. (If `vim` sounds completely Greek to you, have a quick glance [here](http://www.vim.org/about.php). This post is not an attempt to convince you to use `vim`, but rather embracing some of its features and aspects that applies to other applications.)
 
 ## vim navigation to the people!
-if you've ever used `vim`, you know that it may cause a great deal of confusion the first time you use it. The keybindings don't exactly feel _natural_. This is a matter of practice and adaption to a different scheme than the one you may have previously encountered. Trying to use `vim` for the first time may end up looking like this:
+If you've ever used `vim`, you know that it may cause a great deal of confusion the first time you use it. The keybindings don't exactly feel _natural_. This is a matter of practice and adaption to a different scheme than the one you may have previously encountered. Trying to use `vim` for the first time may end up looking like this:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="jAfEZ1x"><a href="//imgur.com/jAfEZ1x">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
