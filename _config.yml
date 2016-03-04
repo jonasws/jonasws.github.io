@@ -3,6 +3,8 @@ gems:
   - jemoji
 
 
+timezone: Europe/Oslo
+
 markdown: kramdown
 kramdown:
   input: GFM
