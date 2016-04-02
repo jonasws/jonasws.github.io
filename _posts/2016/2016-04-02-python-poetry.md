@@ -22,7 +22,7 @@ For reference, during my first semester at NTNU, I was majoring in Applied Physi
 > when I first coded Python, I felt like a boss!
 
 > At first it was for-loops, and functions and such,
-> And then there was Django, which assisted me much.
+> And then there was Django, it assisted me much.
 
 [Django](https://www.djangoproject.com) is really what taught me to develop web applications, which is what has become my bread and butter (in the future, hopefully, at least) as a career developer. However, it is important to expand one's horizon as a developer:
 
