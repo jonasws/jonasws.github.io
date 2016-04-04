@@ -1,6 +1,7 @@
 # Dependencies
 gems:
   - jemoji
+  - jekyll-paginate
 
 
 timezone: Europe/Oslo
@@ -15,5 +16,7 @@ title: The Site of Jonas
 description: My personal GitHub page, where I present (to me) interesting stuff. Maybe you'll like it too!<br/><br/> Powered by [Jekyll](http://jekyllrb.com/) and [Hyde](http://hyde.getpoole.com/).
 tagline: Source of sorcery
 baseurl: "/"
+
+paginate: 5
 
 url: "https://jonasws.github.io"
