@@ -3,9 +3,6 @@ gems:
   - jemoji
   - jekyll-paginate
 
-
-timezone: Europe/Oslo
-
 markdown: kramdown
 kramdown:
   input: GFM
@@ -17,6 +14,7 @@ description: My personal GitHub page, where I present (to me) interesting stuff.
 tagline: Source of sorcery
 baseurl: "/"
 
+# timezone: "Europe/Oslo"
 paginate: 5
 
 url: "https://jonasws.github.io"
