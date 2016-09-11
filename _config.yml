@@ -18,3 +18,4 @@ baseurl: "/"
 paginate: 5
 
 url: "https://jonasws.github.io"
+timezone: Europe/Oslo
