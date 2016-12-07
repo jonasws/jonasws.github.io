@@ -14,7 +14,8 @@ description: My personal GitHub page, where I present (to me) interesting stuff.
 tagline: Source of sorcery
 baseurl: "/"
 
-# timezone: "Europe/Oslo"
+permalink: /:year/:month/:day/:title.html
+
 paginate: 5
 
 url: "https://jonasws.github.io"
