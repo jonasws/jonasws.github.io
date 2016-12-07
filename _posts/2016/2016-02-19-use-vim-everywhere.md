@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Productivity Chronicles: Use vim everywhere!"
-date: "2016-02-19 21:40"
+date: "2016-02-18 21:40"
 ---
 
 It feels like ages since my last post. I apologize for this. I have been pondering what to write about next, and I've decided to write another post on how I try to utilize small, useful perks that add up to increased productivity. One of these things is how I like to use `vim`-like keybindings whenever available. (If `vim` sounds completely Greek to you, have a quick glance [here](http://www.vim.org/about.php). This post is not an attempt to convince you to use `vim`, but rather embracing some of its features and aspects that applies to other applications.)
