@@ -1,5 +1,5 @@
 # Dependencies
-plugins:
+gems:
   - jemoji
   - jekyll-paginate
 
